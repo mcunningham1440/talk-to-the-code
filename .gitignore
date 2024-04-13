@@ -3,3 +3,6 @@ __pycache__/
 
 test_output.txt
 .env
+cache.db
+speech_logs
+agent_logs
