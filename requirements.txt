@@ -3,5 +3,6 @@ scipy>=1.12.0
 sounddevice>=0.4.6
 pydub>=0.25.1
 pyautogen>=0.2.21
+pandas>=2.2.1
 
 # Also requires ffmpeg

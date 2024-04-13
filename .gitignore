@@ -1,4 +1,5 @@
 sandbox/
 __pycache__/
 
-config.py
+test_output.txt
+.env
